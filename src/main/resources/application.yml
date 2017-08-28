@@ -8,6 +8,8 @@ spring:
       port: 19568
       username: aronim
       database: aronim_test
+  session:
+    store-type: hash_map
   thymeleaf:
     cache: false
 

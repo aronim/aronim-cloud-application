@@ -51,7 +51,7 @@ dependencies {
     compile("org.springframework.boot:spring-boot-starter-actuator")
     compile("org.springframework.boot:spring-boot-starter-data-mongodb")
     compile("org.springframework.boot:spring-boot-starter-web")
-    compile("org.springframework.boot:spring-boot-starFter-thymeleaf")
+    compile("org.springframework.boot:spring-boot-starter-thymeleaf")
 
     compile("org.springframework.cloud:spring-cloud-security:1.1.2.RELEASE")
     compile("org.springframework.cloud:spring-cloud-starter:1.1.0.RELEASE")
